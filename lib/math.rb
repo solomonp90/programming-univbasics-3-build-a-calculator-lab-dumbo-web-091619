@@ -27,4 +27,4 @@ subtraction(10,5);
 division(50,2);
 multiplication(4,30);
 modulo(34.0,5);
-square_root.sqrt("n");
+square_root(81);
