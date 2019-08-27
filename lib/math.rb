@@ -26,5 +26,5 @@ addition(5,4);
 subtraction(10,5);
 division(50,2);
 multiplication(4,30);
-modulo(34.0,5);
+modulo(34,5.0);
 #square_root(81);
