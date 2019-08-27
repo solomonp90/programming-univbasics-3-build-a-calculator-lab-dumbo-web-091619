@@ -1,6 +1,6 @@
-#def addition(num1, num2)
-#num1+num2
-#end
+def addition(num1, num2)
+num1+num2
+end
 
 #def subtraction(num1, num2)
 #num1-num2
@@ -22,7 +22,7 @@
 #num1**num2
 #end
 
-#addition(5,4);
+addition(5,4);
 #subtraction(10,5);
 #division(50,2);
 #multiplication(4,30);
