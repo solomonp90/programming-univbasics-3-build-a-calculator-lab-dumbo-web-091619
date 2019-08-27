@@ -10,9 +10,9 @@ def division(num1, num2)
 num1/num2
 end
 
-#def multiplication(num1, num2)
-#num1*num2
-#end
+def multiplication(num1, num2)
+num1*num2
+end
 
 #def modulo(num1, num2)
 #num1/num2
@@ -25,6 +25,6 @@ end
 addition(5,4);
 subtraction(10,5);
 division(50,2);
-#multiplication(4,30);
+multiplication(4,30);
 #modulo(34.0,5.0);
 #square_root(81);
