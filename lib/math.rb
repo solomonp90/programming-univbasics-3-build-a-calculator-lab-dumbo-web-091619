@@ -19,7 +19,7 @@ num1/num2
 end
 
 def square_root(num)
-"#{num}"
+num.sqrt
 end
 
 addition(5,4)
@@ -27,4 +27,4 @@ subtraction(10,5);
 division(50,2);
 multiplication(4,30);
 modulo(34.0,5);
-square_root.sqrt(9);
+square_root.sqrt("n");
